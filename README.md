@@ -19,5 +19,12 @@ You're always welcome to dive into more details on any specfic page if you like.
   - [Anti-Harassment Policy](/general/anti-harassment/README.md)
   - [Paycheck](/general/paycheck/README.md)
   - [Internal Employee Dashobard](https://nineafrica.com/login) (External Link)
+- [Objective and Key Results (OKR)](/OKR/README.md)
+  - [Company OKR](/OKR/company/README.md)
+- [Learning Resources](/learn/README.md)
 - People Operations
+  - [Salary Slabs](/people-operations/salary/README.md)
+  - [Performance Review](/people-operations/performance-review/README.md)
   - [Violation](/people-operations/violation/README.md)
+- Engineering
+  - [Performance Review for Engineers](/engineering/performance-review/README.md)
