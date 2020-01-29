@@ -12,3 +12,5 @@ You're always welcome to dive into more details on any specfic page if you like.
 
 - General
   - [Mission Statement](/general/vision-mission/README.md)
+  - [Values](/general/values/README.md)
+  - [To do for the future](/general/to-do/README.md)
