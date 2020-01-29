@@ -19,3 +19,5 @@ You're always welcome to dive into more details on any specfic page if you like.
   - [Anti-Harassment Policy](/general/anti-harassment/README.md)
   - [Paycheck](/general/paycheck/README.md)
   - [Internal Employee Dashobard](https://nineafrica.com/login) (External Link)
+- People Operations
+  - [Violation](/people-operations/violation/README.md)
