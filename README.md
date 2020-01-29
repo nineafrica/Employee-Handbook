@@ -15,3 +15,4 @@ You're always welcome to dive into more details on any specfic page if you like.
   - [Values](/general/values/README.md)
   - [To do for the future](/general/to-do/README.md)
   - [Basic Etiquette](/general/basic-etiquette/README.md)
+  - [Work Ethic](/general/work-ethic/README.md)
