@@ -16,3 +16,6 @@ You're always welcome to dive into more details on any specfic page if you like.
   - [To do for the future](/general/to-do/README.md)
   - [Basic Etiquette](/general/basic-etiquette/README.md)
   - [Work Ethic](/general/work-ethic/README.md)
+  - [Anti-Harassment Policy](/general/anti-harassment/README.md)
+  - [Paycheck](/general/paycheck/README.md)
+  - [Internal Employee Dashobard](https://nineafrica.com/login) (External Link)
