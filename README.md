@@ -23,8 +23,22 @@ You're always welcome to dive into more details on any specfic page if you like.
   - [Company OKR](/OKR/company/README.md)
 - [Learning Resources](/learn/README.md)
 - People Operations
+  <!-- TODO: Onboarding -->
+  <!-- TODO: Setting up Emails -->
+  <!-- TODO: Standups -->
+  <!-- TODO: Working with Hubstaff -->
+  <!-- TODO: Salary and Leave Policy -->
   - [Salary Slabs](/people-operations/salary/README.md)
   - [Performance Review](/people-operations/performance-review/README.md)
+    <!-- TODO: Underperformance -->
+    <!-- TODO: Travel -->
+    <!-- TODO: Visa -->
+    <!-- TODO: Company Equipment -->
+    <!-- TODO: Healthcare -->
+    <!-- TODO: Quarterly Feedback -->
   - [Violation](/people-operations/violation/README.md)
+    <!-- TODO: Resignation -->
+    <!-- TODO: Writing Blogs -->
 - Engineering
+  <!-- TODO: Onboarding for Engineers -->
   - [Performance Review for Engineers](/engineering/performance-review/README.md)
