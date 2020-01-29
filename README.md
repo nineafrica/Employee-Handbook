@@ -7,3 +7,8 @@ The Nineafrica Employee Handbook is the central repository for how we run the co
 If pages are long to read. They will have "Too long; didn't read" which will have the summary of the page.
 This will make it easier and faster for you to read the handbook.
 You're always welcome to dive into more details on any specfic page if you like.
+
+### Contents
+
+- General
+  - [Mission Statement](/general/vision-mission/README.md)
